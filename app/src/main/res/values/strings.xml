@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Haryana Flour Mill</string>
+
+    <string name="Rs">\u20B9</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>
